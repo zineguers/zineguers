@@ -17,4 +17,4 @@ I am a Cybersecurity Analyst based in Montréal with a focus on SOC operations a
 **📬 Reach Me**  
 • Email: zineguers@gmail.com   
 
-Languages: English, French, Arabic, Russian
+Languages: English, French, Russian
