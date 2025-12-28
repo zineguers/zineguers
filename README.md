@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-👋 About Me  
 I am a Cybersecurity Analyst based in Montréal with a focus on SOC operations and threat detection. I have resolved over 10,000 tickets and hold the CompTIA Security+ certification.
 
 **🛠️ Current Focus:**  
