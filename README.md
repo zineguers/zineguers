@@ -5,7 +5,7 @@ I am a Cybersecurity Analyst based in Montréal with a focus on SOC operations a
 **🛠️ Current Focus:**  
 • Incident Response: Managing malware and APT eradication at S3 Technologies.  
 • Development: Building PIPA Tool-Kit (BLUE TEAM TOOL)  
-• Education: Completing a Microprogram in Cybersecurity at Polytechnique Montréal.  
+• Education: Microprogram in Cybersecurity at Polytechnique Montréal / Security+
 
 
 **🧰 Tools**  
